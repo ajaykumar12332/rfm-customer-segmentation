@@ -100,8 +100,17 @@ Rules are evaluated top to bottom, so a customer gets the first segment they mat
 
 ## Visualisations
 
+### Customer Segment Distribution
 ![Customer Segment Distribution](images/segment_distribution.png)
+
+### Age Distribution by Segment
 ![Age Distribution by Segment](images/age_by_segment.png)
+
+### Age Brackets across Segments
 ![Age Brackets across Segments](images/age_brackets_stacked.png)
+
+### Spending by Age Bracket
 ![Spending by Age Bracket](images/spend_by_age.png)
+
+### Spending by Marital Status
 ![Spending by Marital Status](images/spend_by_marital_status.png)
